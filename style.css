@@ -1,0 +1,12 @@
+img {
+  width: 20vh;
+}
+
+body {
+  background-color: #000000
+}
+
+.hummus {
+  display: flex;
+  justify-content: space-between;
+}
